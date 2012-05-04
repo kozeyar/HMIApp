@@ -1,0 +1,953 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE xliff PUBLIC "-//XLIFF//DTD XLIFF//EN" 
+"http://www.oasis-open.org/committees/xliff/documents/xliff.dtd" > 
+<xliff version="1.0" xml:lang="en"> 
+<file datatype="plaintext" original="application.fla" source-language="EN"> 
+        <header></header> 
+        <body> 
+            <trans-unit id="1" resname="IDS_OOS"> 
+                <source>Machine Out of Service</source> 
+            </trans-unit> 
+            <trans-unit id="2" resname="IDS_ERR_ENCOUNTERED"> 
+                <source>Error Encountered</source> 
+            </trans-unit> 
+            <trans-unit id="10" resname="IDS_MACHINE_ONLY_ACCEPT_CASH"> 
+                <source>This machine accepts only CASH transactions</source> 
+            </trans-unit> 
+            <trans-unit id="11" resname="IDS_MACHINE_ONLY_ACCEPT_NETS"> 
+                <source>This machine accepts only NETS transactions</source> 
+            </trans-unit> 
+  		<trans-unit id="12" resname="IDS_INS_EXACT_FARE_NO_CHANGE"> 
+                <source>Insert Exact Fare. No change will be given</source> 
+            </trans-unit> 
+			<trans-unit id="13" resname="IDS_BUY_ST_ONLY"> 
+                <source>Buy Standard Ticket only</source> 
+            </trans-unit>
+			<trans-unit id="14" resname="IDS_CEPAS_ONLY"> 
+                <source>CEPAS Card only</source> 
+            </trans-unit> 
+			<trans-unit id="15" resname="IDS_PROCESSING_PLS_WAIT"> 
+                <source>Processing. Please Wait...</source> 
+            </trans-unit>
+			<trans-unit id="20" resname="IDS_DO_NOT_REMOVE_CARD"> 
+                <source>Please do not remove card</source> 
+            </trans-unit>
+			<trans-unit id="21" resname="IDS_DO_NOT_REMOVE_TICKET"> 
+                <source>Please do not remove ticket</source> 
+            </trans-unit>
+			<trans-unit id="22" resname="IDS_PLACE_CARD_BACK"> 
+                <source>Please place the card back on the reader</source> 
+            </trans-unit> 
+			<trans-unit id="23" resname="IDS_PLACE_TICKET_BACK"> 
+                <source>Please place the ticket back on the reader</source> 
+            </trans-unit>
+			<trans-unit id="24" resname="IDS_COLLECT_TICKETS_N_CHANGE"> 
+                <source>Please collect ticket(s) and change</source> 
+            </trans-unit>
+			<trans-unit id="25" resname="IDS_COLLECT_TICKETS"> 
+                <source>Please collect ticket(s)</source> 
+            </trans-unit>
+			<trans-unit id="26" resname="IDS_COLLECT_CHANGE"> 
+                <source>Please collect change</source> 
+            </trans-unit>
+			<trans-unit id="27" resname="IDS_TRANS_SUCCESS_REMOVE_CARD"> 
+                <source>Transaction successful. Please remove card</source> 
+            </trans-unit>
+			<trans-unit id="28" resname="IDS_TRANS_CANCELLED_REMOVE_CARD"> 
+                <source>Transaction cancelled. Please remove card</source> 
+            </trans-unit>
+			<trans-unit id="29" resname="IDS_WRONG_CARD_PLACE_CORRECT_CARD"> 
+                <source>Wrong card. Please place the correct card on the reader</source> 
+            </trans-unit>
+			<trans-unit id="30" resname="IDS_PLS_REMOVE_CARD"> 
+                <source>Please remove card</source> 
+            </trans-unit>
+			<trans-unit id="31" resname="IDS_PLS_REMOVE_CARD_N_CHANGE"> 
+                <source>Please remove card and change</source> 
+            </trans-unit>
+			<trans-unit id="32" resname="IDS_PLS_REMOVE_CARD_CHANGE_N_RECEIPT"> 
+                <source>Please remove card, change and receipt</source> 
+            </trans-unit>
+			<trans-unit id="33" resname="IDS_PLS_REMOVE_CARD_N_RECEIPT"> 
+                <source>Please remove card and receipt</source> 
+            </trans-unit>
+			<trans-unit id="34" resname="IDS_NETS_Cash"> 
+                <source>NETS/Cash </source> 
+            </trans-unit>
+			<trans-unit id="35" resname="IDS_Cash"> 
+                <source>Cash </source> 
+            </trans-unit>
+			<trans-unit id="36" resname="IDS_CARD_UPGRADED_REMOVE_CARD_N_RECEIPT"> 
+                <source>Your Card Has Been Upgraded. Please remove card and receipt</source> 
+            </trans-unit>
+			<trans-unit id="37" resname="IDS_CARD_UPGRADED_REMOVE_CARD_N_PLACE_NEXT_CARD"> 
+                <source>This Card Has Been Upgraded. Please remove current card and place the next card to be upgraded.</source> 
+            </trans-unit>
+			<trans-unit id="40" resname="IDS_PLS_INS_N_REMOVE_ATM_CARD"> 
+                <source>Please insert and remove ATM card</source> 
+            </trans-unit>
+			<trans-unit id="41" resname="IDS_RE_INS_N_REMOVE_ATM_CARD"> 
+                <source>Re-insert and remove your ATM card</source> 
+            </trans-unit>
+			<trans-unit id="42" resname="IDS_KEYIN_ATM_PIN_N_ENTER"> 
+                <source>Please key in ATM PIN and press Enter</source> 
+            </trans-unit>
+			<trans-unit id="43" resname="IDS_INVALID_PIN_KEYIN_ATM_PIN_N_ENTER"> 
+                <source>Invalid PIN. Please key in ATM PIN again and press Enter</source> 
+            </trans-unit>
+			<trans-unit id="44" resname="IDS_NETS_TRANS_NOT_APPROVED"> 
+                <source>NETS Transaction not approved</source> 
+            </trans-unit>
+			<trans-unit id="45" resname="IDS_NETS_TRANS_ERR"> 
+                <source>NETS Transaction Error</source> 
+            </trans-unit>
+			<trans-unit id="46" resname="IDS_ERR_WHEN_PROCESSING_NETS_TRANS_CANCELLED"> 
+                <source>Error encountered when processing your NETS transaction. Transaction cancelled</source> 
+            </trans-unit>
+			<trans-unit id="50" resname="IDS_ENTER_LOGIN_PIN"> 
+                <source>Please Enter Login PIN</source> 
+            </trans-unit>
+			<trans-unit id="51" resname="IDS_WRONG_PIN_TRY_AGAIN"> 
+                <source>Wrong PIN. Please Try Again</source> 
+            </trans-unit>
+			<trans-unit id="52" resname="IDS_PLACE_CARD_BACK"> 
+                <source>Please place the card back on the reader</source> 
+            </trans-unit>
+			<trans-unit id="60" resname="IDS_PLS_COLLECT_TICKETS"> 
+                <source>Please collect ticket(s)</source> 
+            </trans-unit>
+			<trans-unit id="61" resname="IDS_PLS_COLLECT_TICKETS_N_CHANGE"> 
+                <source>Please collect ticket(s) and change</source> 
+            </trans-unit>
+			<trans-unit id="62" resname="IDS_PLS_COLLECT_TICKET"> 
+                <source>Please collect ticket</source> 
+            </trans-unit>
+			<trans-unit id="63" resname="IDS_PLS_COLLECT_TICKET_N_CHANGE"> 
+                <source>Please collect ticket and change</source> 
+            </trans-unit>
+			<trans-unit id="64" resname="IDS_PLS_COLLECT_CHANGE"> 
+                <source>Please collect change</source> 
+            </trans-unit>
+			<trans-unit id="70" resname="IDS_ERR_ENCOUNTERED"> 
+                <source>Error Encountered</source> 
+            </trans-unit>
+			<trans-unit id="71" resname="IDS_TRANS_CANCELLED"> 
+                <source>Transaction Cancelled.</source> 
+            </trans-unit>
+			<trans-unit id="72" resname="IDS_TRANS_CANCELLED_DUE_TO_ERR"> 
+                <source>Transaction Cancelled Due to Error</source> 
+            </trans-unit>
+			<trans-unit id="73" resname="IDS_TRANS_CANCELLED_DUE_TO_TIMEOUT"> 
+                <source>Transaction Cancelled Due to Timeout</source> 
+            </trans-unit>
+			<trans-unit id="75" resname="IDS_PLS_TRYAGAIN_LATER_TIME"> 
+                <source>Please Try Again at a Later Time</source> 
+            </trans-unit>
+			<trans-unit id="75" resname="IDS_PLS_COLLECT_INS_CASH"> 
+                <source>Please Collect Inserted Cash</source> 
+            </trans-unit>
+			<trans-unit id="76" resname="IDS_PLS_GO_NEAREST_OFFICE_FOR_ASSISTANCE"> 
+                <source>Please Go to the Nearest TransitLink Office for Assistance</source> 
+            </trans-unit>
+			<trans-unit id="77" resname="IDS_TRANS_NOT_APPROVED"> 
+                <source>Transaction Not Approved</source> 
+            </trans-unit>
+			<trans-unit id="78" resname="IDS_PLS_COLLECT_RECEIPT_N_REMOVE_CARD"> 
+                <source>Please Collect Receipt and Remove Your Card</source> 
+            </trans-unit>
+			<trans-unit id="79" resname="IDS_REFUND_PROBLEM"> 
+                <source>Refund Problem</source> 
+            </trans-unit>
+			<trans-unit id="80" resname="IDS_REMAINING_CARD_VALUE_TOO_HIGH"> 
+                <source>Remaining Card Value Too High</source> 
+            </trans-unit>
+			<trans-unit id="81" resname="IDS_CARD_READ_WRITE_ERR"> 
+                <source>Card Read/Write error</source> 
+            </trans-unit>
+			<trans-unit id="81" resname="IDS_INCORECT_CARD_ID"> 
+                <source>Incorrect Card ID</source> 
+            </trans-unit>
+			<trans-unit id="82" resname="IDS_EXCEEDED_MAX_TRIES"> 
+                <source>Exceeded Maximum Number of Tries</source> 
+            </trans-unit>
+			<trans-unit id="83" resname="IDS_ERR_WHEN_PROCESSING_NETS_TRANS"> 
+                <source>Error Encountered When Processing Your NETS Transaction</source> 
+            </trans-unit>
+			<trans-unit id="84" resname="IDS_TIMEOUT"> 
+                <source>Time Out</source> 
+            </trans-unit>
+			<trans-unit id="85" resname="IDS_CONN_PROBLEM"> 
+                <source>Connection Problem</source> 
+            </trans-unit>
+			<trans-unit id="86" resname="IDS_CHECK_CARD"> 
+                <source>Check Card</source> 
+            </trans-unit>
+			<trans-unit id="87" resname="IDS_ADD_VALUE"> 
+                <source>Add Value</source> 
+            </trans-unit>
+			<trans-unit id="88" resname="IDS_APPLY_GIOLINK"> 
+                <source>Apply Giro-Link</source> 
+            </trans-unit>
+			<trans-unit id="89" resname="IDS_ACTIVATE_EZRELOAD"> 
+                <source>Activate EZ-Reload</source> 
+            </trans-unit>
+			<trans-unit id="90" resname="IDS_CHANGE_GIOLINK_AMT"> 
+                <source>Change Giro-Link Amount</source> 
+            </trans-unit>
+			<trans-unit id="91" resname="IDS_LOGIN"> 
+                <source>Log In</source> 
+            </trans-unit>
+			<trans-unit id="92" resname="IDS_PIN_OPTIONS"> 
+                <source>Pin Options</source> 
+            </trans-unit>
+			<trans-unit id="93" resname="IDS_BUY_CONCESSION_PASS"> 
+                <source>Buy Concession Pass</source> 
+            </trans-unit>
+			<trans-unit id="94" resname="IDS_GOOD_FOR_ENTRY"> 
+                <source>Good for Entry</source> 
+            </trans-unit>
+			<trans-unit id="95" resname="IDS_GOOD_FOR_EXIT"> 
+                <source>Good for Exit</source> 
+            </trans-unit>
+			<trans-unit id="96" resname="IDS_GOOD_FOR_ENTRY_TODAY"> 
+                <source>Good for Entry for Today</source> 
+            </trans-unit>
+			<trans-unit id="97" resname="IDS_GOOD_FOR_EXIT_TODAY"> 
+                <source>Good for Exit for Today</source> 
+            </trans-unit>
+			<trans-unit id="98" resname="IDS_TRIP_EXPIRED"> 
+                <source>Trip Expired</source> 
+            </trans-unit>
+			<trans-unit id="99" resname="IDS_FAULTY_CARD"> 
+                <source>Faulty Card</source> 
+            </trans-unit>
+			<trans-unit id="100" resname="IDS_CARD_SURRENDERED"> 
+                <source>Card Surrendered</source> 
+            </trans-unit>
+			<trans-unit id="101" resname="IDS_CARD_NOT_ISSUED"> 
+                <source>Card not issued</source> 
+            </trans-unit>
+			<trans-unit id="102" resname="IDS_CARD_SUSPENDED"> 
+                <source>Card Suspended</source> 
+            </trans-unit>
+			<trans-unit id="103" resname="IDS_CARD_EXPIRED"> 
+                <source>Card Expired</source> 
+            </trans-unit>
+			<trans-unit id="103" resname="IDS_CARD_NOT_ACTIVE"> 
+                <source>Card Not Active</source> 
+            </trans-unit>
+			<trans-unit id="103" resname="IDS_EXCESSIVE_REMAINING_VALUE"> 
+                <source>Excessive Remaining Value</source> 
+            </trans-unit>
+			<trans-unit id="105" resname="IDS_INVALID_CARD_X"> 
+                <source>Invalid Card (x)</source> 
+            </trans-unit>
+			<trans-unit id="106" resname="IDS_AUTO_TOPUP_X"> 
+                <source>Auto Top-up ($x)</source> 
+            </trans-unit>
+			
+			
+			<trans-unit id="107" resname="IDS_SINGLE_TRIP"> 
+                <source>Lawatan Tunggal ke</source> 
+            </trans-unit>
+			<trans-unit id="107" resname="IDS_RETURN_TRIP"> 
+                <source>Lawatan Pergi Balik</source> 
+            </trans-unit>
+			
+			<trans-unit id="107" resname="IDS_SINGLE_TRIP_FOR_TODAY_TO"> 
+                <source>Lawatan tunggal untuk hari ini untuk</source> 
+            </trans-unit>
+			<trans-unit id="107" resname="IDS_RETURN_TRIP_FOR_TODAY_TO"> 
+                <source>Perjalanan Pergi Balik untuk hari ini untuk</source> 
+            </trans-unit>
+			
+			<trans-unit id="108" resname="IDS_PLS_INS_CASH"> 
+                <source>Sila Masukkan Tunai:</source> 
+            </trans-unit>
+			<trans-unit id="108" resname="IDS_TICKETS"> 
+                <source>Tiket (s)</source> 
+            </trans-unit>
+			<trans-unit id="110" resname="IDS_AMT_INS"> 
+                <source>jumlah Dimasukkan</source> 
+            </trans-unit>
+			<trans-unit id="111" resname="IDS_BUY_ST"> 
+                <source>Beli Tiket Standard</source> 
+            </trans-unit>
+			<trans-unit id="112" resname="IDS_INFO_1_TICKET"> 
+                <source>Maklumat bagi Tiket 1</source> 
+            </trans-unit>
+			<trans-unit id="113" resname="IDS_TICKET_DEPOSIT"> 
+                <source>Deposit tiket:</source> 
+            </trans-unit>
+			<trans-unit id="114" resname="IDS_TRIP_FARE"> 
+                <source>Tambang perjalanan:</source> 
+            </trans-unit>
+			<trans-unit id="115" resname="IDS_REBATE"> 
+                <source>rebat:</source> 
+            </trans-unit>
+			<trans-unit id="116" resname="IDS_NOTES_COINS_ACCEPTED"> 
+                <source>Nota / syiling Diterima:</source> 
+            </trans-unit>
+			<trans-unit id="117" resname="IDS_MAX_CHANGE_OF_X_WILL_BE_ISSUED"> 
+                <source>Perubahan maksimum xxx hanya akan dikeluarkan</source> 
+            </trans-unit>
+			<trans-unit id="118" resname="IDS_OK"> 
+                <source>Ok</source> 
+            </trans-unit>
+			<trans-unit id="119" resname="IDS_CANCEL"> 
+                <source>membatalkan</source> 
+            </trans-unit>
+			<trans-unit id="120" resname="IDS_WELCOME"> 
+                <source>Selamat Datang</source> 
+            </trans-unit>
+			<trans-unit id="121" resname="IDS_MAP"> 
+                <source>peta</source> 
+            </trans-unit>
+			<trans-unit id="122" resname="IDS_STATION_NAME"> 
+                <source>Nama stesen</source> 
+            </trans-unit>
+			<trans-unit id="123" resname="IDS_PLACE_CARD_OR_ST_ON_READER"> 
+                <source>Kad tempat atau Tiket Standard pada Reader</source> 
+            </trans-unit>
+			<trans-unit id="124" resname="IDS_ZOOM_OUT"> 
+                <source>Zoom Keluar</source> 
+            </trans-unit>
+			<trans-unit id="125" resname="IDS_SELECT_STATION_NAME"> 
+                <source>Pilih Nama Stesen</source> 
+            </trans-unit>
+			<trans-unit id="126" resname="IDS_NO_OF_TICKETS_ISSUED"> 
+                <source>Bilangan tiket(s) yang dikeluarkan:</source> 
+            </trans-unit>
+			<trans-unit id="127" resname="IDS_OUT_OF"> 
+                <source>daripada</source> 
+            </trans-unit>
+			<trans-unit id="128" resname="IDS_PLS_COLLECT_TICKET_RESUME_PROCESSING_NEXT_TICKT"> 
+                <source>Sila mengambil tiket untuk meneruskan pemprosesan tiket seterusnya</source> 
+            </trans-unit>
+			<trans-unit id="129" resname="IDS_THANK_YOU"> 
+                <source>Terima Kasih</source> 
+            </trans-unit>
+			<trans-unit id="130" resname="IDS_TRANS_SUCCESS"> 
+                <source>transaksi yang berjaya</source> 
+            </trans-unit>
+			<trans-unit id="131" resname="IDS_YOU_CAN_ADD"> 
+                <source>Anda boleh menambah</source> 
+            </trans-unit>
+			<trans-unit id="132" resname="IDS_MORE_TRIPS"> 
+                <source>perjalanan lebih (s)</source> 
+            </trans-unit>
+			<trans-unit id="133" resname="IDS_CHANGE_GIVEN"> 
+                <source>Menukar Memandangkan:</source> 
+            </trans-unit>
+			<trans-unit id="134" resname="IDS_CEPAS_OPTIONS"> 
+                <source>CEPAS Pilihan Kad</source> 
+            </trans-unit>
+			<trans-unit id="135" resname="IDS_SELECT_CARD_OPTIONS"> 
+                <source>Pilih Pilihan Kad</source> 
+            </trans-unit>
+			<trans-unit id="136" resname="IDS_CARD_VALUE"> 
+                <source>Nilai kad:</source> 
+            </trans-unit>
+			<trans-unit id="137" resname="IDS_CARD_DETAILS"> 
+                <source>Kad Details:</source> 
+            </trans-unit>
+			<trans-unit id="138" resname="IDS_STATUS"> 
+                <source>Status:</source> 
+            </trans-unit>
+			<trans-unit id="139" resname="IDS_CARD_ID"> 
+                <source>Kad ID:</source> 
+            </trans-unit>
+			<trans-unit id="140" resname="IDS_EXPIRY_DATE"> 
+                <source>Tarikh Luput:</source> 
+            </trans-unit>
+			<trans-unit id="141" resname="IDS_TOPUP_SCHEME"> 
+                <source>Top up skim:</source> 
+            </trans-unit>
+				<trans-unit id="143" resname="IDS_NETS"> 
+                <source>NETS</source> 
+            </trans-unit>
+			<trans-unit id="144" resname="IDS_PLS_INS_NOTES"> 
+                <source>Sila Masukkan Nota</source> 
+            </trans-unit>
+			<trans-unit id="145" resname="IDS_NOTES_ACCEPTED"> 
+                <source>Nota Menerima:</source> 
+            </trans-unit>
+			<trans-unit id="146" resname="IDS_NOTES_ACCEPTED_BY_MACHINE_WILL_NOT_RETURNED"> 
+                <source>Nota yang diterima oleh mesin tidak akan dikembalikan.</source> 
+            </trans-unit>
+			<trans-unit id="147" resname="IDS_CONFIRM_ADD_VALUE_AMT"> 
+                <source>Mengesahkan Tambah Nilai Nilai</source> 
+            </trans-unit>
+			<trans-unit id="148" resname="IDS_NO_CHANGE_BE_PROVIDED"> 
+                <source>Tiada perubahan akan disediakan</source> 
+            </trans-unit>
+			<trans-unit id="149" resname="IDS_PLS_SELECT_AMT"> 
+                <source>Sila Pilih Amaun</source> 
+            </trans-unit>
+			<trans-unit id="150" resname="IDS_PLS_INS_N_REMOVE_ATM_CARD"> 
+                <source>Sila Masukkan dan Keluarkan Kad ATM</source> 
+            </trans-unit>
+			<trans-unit id="151" resname="IDS_PLS_KEYIN_ATM_PIN_N_ENTER"> 
+                <source>Sila masukkan nombor PIN ATM dan tekan ENTER</source> 
+            </trans-unit>
+			<trans-unit id="152" resname="IDS_VALUE_ADDED"> 
+                <source>Nilai Ditambah:</source> 
+            </trans-unit>
+			<trans-unit id="153" resname="IDS_RECEIPT"> 
+                <source>resit</source> 
+            </trans-unit>
+			<trans-unit id="154" resname="IDS_SINGLE"> 
+                <source>tunggal</source> 
+            </trans-unit>
+			<trans-unit id="153" resname="IDS_RETURN"> 
+                <source>kembali</source> 
+            </trans-unit>
+			<trans-unit id="153" resname="IDS_PLS_INS_EXACT_FARE_NO_CHANGE_BE_GIVEN"> 
+                <source>Sila Masukkan Tambang Exact. Tiada perubahan akan diberi.</source> 
+            </trans-unit>
+			<trans-unit id="155" resname="IDS_YIO_CHU_KANG">
+				<source>NS15</source>
+				<name>Yio Chu Kang</name>
+			</trans-unit>
+			<trans-unit id="156" resname="IDS_ANG_MO_KIO">
+				<source>NS16</source>
+				<name>Ang Mo Kio</name>
+			</trans-unit>
+			<trans-unit id="157" resname="IDS_BISHAN">
+				<source>NS17 CC15</source>
+				<name>Bishan</name>
+			</trans-unit>
+			<trans-unit id="158" resname="IDS_BRADDELL">
+				<source>NS18</source>
+				<name>Braddell</name>
+			</trans-unit>
+			<trans-unit id="159" resname="IDS_TOA_PAYOH">
+				<source>NS19</source>
+				<name>Toa Payoh</name>
+			</trans-unit>
+			<trans-unit id="160" resname="IDS_NOVENA">
+				<source>NS20</source>
+				<name>Novena</name>
+			</trans-unit>
+			<trans-unit id="161" resname="IDS_NEWTON">
+				<source>NS21</source>
+				<name>Newton</name>
+			</trans-unit>
+			<trans-unit id="162" resname="IDS_ORCHARD">
+				<source>NS22</source>
+				<name>Orchard</name>
+			</trans-unit>
+			<trans-unit id="163" resname="IDS_SOMERSET">
+				<source>NS23</source>
+				<name>Somerset</name>
+			</trans-unit>
+			<trans-unit id="164" resname="IDS_DHOBY_GHAUT">
+				<source>NS24 NE6 CC1</source>
+				<name>Dhoby Ghaut</name>
+			</trans-unit>
+			<trans-unit id="165" resname="IDS_CITY_HALL">
+				<source>EW13 NS25</source>
+				<name>City Hall</name>
+			</trans-unit>
+			<trans-unit id="166" resname="IDS_RAFFLES_PLACE">
+				<source>EW14 NS26</source>
+				<name>Raffles Place</name>
+			</trans-unit>
+			<trans-unit id="167" resname="IDS_MARINA_BAY">
+				<source>NS27 CE2</source>
+				<name>Marina Bay</name>
+			</trans-unit>
+			<trans-unit id="168" resname="IDS_TANJONG_PAGAR">
+				<source>EW15</source>
+				<name>Tanjong Pagar</name>
+			</trans-unit>
+			<trans-unit id="169" resname="IDS_OUTRAM_PARK">
+				<source>EW16 NE3</source>
+				<name>Outram Park</name>
+			</trans-unit>
+			<trans-unit id="170" resname="IDS_TIONG_BAHRU">
+				<source>EW17</source>
+				<name>Tiong Bahru</name>
+			</trans-unit>
+			<trans-unit id="171" resname="IDS_REDHILL">
+				<source>EW18</source>
+				<name>Redhill</name>
+			</trans-unit>
+			<trans-unit id="172" resname="IDS_QUEENSTOWN">
+				<source>EW19</source>
+				<name>Queenstown</name>
+			</trans-unit>
+			<trans-unit id="173" resname="IDS_COMMONWEALTH">
+				<source>EW20</source>
+				<name>Commonwealth</name>
+			</trans-unit>
+			<trans-unit id="174" resname="IDS_BOUNA_VISTA">
+				<source>EW21 CC22</source>
+				<name>Buona Vista</name>
+			</trans-unit>
+			<trans-unit id="175" resname="IDS_CLEMENTI">
+				<source>EW23</source>
+				<name>Clementi</name>
+			</trans-unit>
+			<trans-unit id="176" resname="IDS_YISHUN">
+				<source>NS13</source>
+				<name>Yishun</name>
+			</trans-unit>
+			<trans-unit id="177" resname="IDS_KHATIB">
+				<source>NS14</source>
+				<name>Khatib</name>
+			</trans-unit>
+			<trans-unit id="178" resname="IDS_JURONG_EAST">
+				<source>EW24 NS1</source>
+				<name>Jurong East</name>
+			</trans-unit>
+			<trans-unit id="179" resname="IDS_CHINESE_GARDEN">
+				<source>EW25 </source>
+				<name>Chinese Garden</name>
+			</trans-unit>
+			<trans-unit id="180" resname="IDS_LAKESIDE">
+				<source>EW26</source>
+				<name>Lakeside</name>
+			</trans-unit>
+			<trans-unit id="181" resname="IDS_BOON_LAY">
+				<source>EW27</source>
+				<name>Boon Lay</name>
+			</trans-unit>
+			<trans-unit id="182" resname="IDS_BUKIT_BATOK">
+				<source>NS2</source>
+				<name>Bukit Batok</name>
+			</trans-unit>
+			<trans-unit id="183" resname="IDS_BUKIT_GOMBAK">
+				<source>NS3</source>
+				<name>Bukit Gombak</name>
+			</trans-unit>
+			<trans-unit id="184" resname="IDS_CHOA_CHU_KANG">
+				<source>NS4 BP1</source>
+				<name>Choa Chu Kang</name>
+			</trans-unit>
+			<trans-unit id="185" resname="IDS_BUGIS">
+				<source>EW12</source>
+				<name>Bugis</name>
+			</trans-unit>
+			<trans-unit id="186" resname="IDS_LAVENDER">
+				<source>EW11</source>
+				<name>Lavender</name>
+			</trans-unit>
+			<trans-unit id="190" resname="IDS_KALLANG">
+				<source>EW10</source>
+				<name>Kallang</name>
+			</trans-unit>
+			<trans-unit id="191" resname="IDS_ALJUNIED">
+				<source>EW9</source>
+				<name>Aljunied</name>
+			</trans-unit>
+			<trans-unit id="192" resname="IDS_PAYA_LEBAR">
+				<source>EW8 CC9 </source>
+				<name>Paya Lebar</name>
+			</trans-unit>
+			<trans-unit id="193" resname="IDS_EUNOS">
+				<source>EW7 </source>
+				<name>Eunos</name>
+			</trans-unit>
+			<trans-unit id="194" resname="IDS_KEMBANGAN">
+				<source>EW6</source>
+				<name>Kembangan</name>
+			</trans-unit>
+			<trans-unit id="195" resname="IDS_BEDOK">
+				<source>EW5</source>
+				<name>Bedok</name>
+			</trans-unit>
+			<trans-unit id="196" resname="IDS_TANAH_MERAH">
+				<source>EW4</source>
+				<name>Tanah Merah</name>
+			</trans-unit>
+			<trans-unit id="197" resname="IDS_SIMEI">
+				<source>EW3</source>
+				<name>Simei</name>
+			</trans-unit>
+			<trans-unit id="198" resname="IDS_TAMPINES">
+				<source>EW2</source>
+				<name>Tampines</name>
+			</trans-unit>
+			<trans-unit id="199" resname="IDS_PASIR_RIS">
+				<source>EW1</source>
+				<name>Pasir Ris</name>
+			</trans-unit>
+			<trans-unit id="200" resname="IDS_SEMBAWANG">
+				<source>NS11</source>
+				<name>Sembawang</name>
+			</trans-unit>
+			<trans-unit id="201" resname="IDS_ADMIRALTY">
+				<source>NS10</source>
+				<name>Admiralty</name>
+			</trans-unit>
+			<trans-unit id="202" resname="IDS_WOODLANDS">
+				<source>NS9</source>
+				<name>Woodlands</name>
+			</trans-unit>
+			<trans-unit id="203" resname="IDS_MARSILING">
+				<source>NS8</source>
+				<name>Marsiling</name>
+			</trans-unit>
+			<trans-unit id="204" resname="IDS_KRANJI">
+				<source>NS7</source>
+				<name>Kranji</name>
+			</trans-unit>
+			<trans-unit id="205" resname="IDS_YEW_TEE">
+				<source>NS5</source>
+				<name>Yew Tee</name>
+			</trans-unit>
+			<trans-unit id="206" resname="IDS_SOUTH_VIEW">
+				<source>BP2</source>
+				<name>South View</name>
+			</trans-unit>
+			<trans-unit id="207" resname="IDS_KEAT_HONG">
+				<source>BP3</source>
+				<name>Keat Hong</name>
+			</trans-unit>
+			<trans-unit id="208" resname="IDS_TECK_WHYE">
+				<source>BP4</source>
+				<name>Teck Whye</name>
+			</trans-unit>
+			<trans-unit id="209" resname="IDS_PHOENIX">
+				<source>BP5</source>
+				<name>Phoenix</name>
+			</trans-unit>
+			<trans-unit id="210" resname="IDS_BUKIT_PANJANG">
+				<source>BP6</source>
+				<name>Bukit Panjang</name>
+			</trans-unit>
+			<trans-unit id="211" resname="IDS_PETIR">
+				<source>BP7</source>
+				<name>Petir</name>
+			</trans-unit>
+			<trans-unit id="212" resname="IDS_PENDING">
+				<source>BP8</source>
+				<name>Pending</name>
+			</trans-unit>
+			<trans-unit id="213" resname="IDS_BANGKIT">
+				<source>BP9</source>
+				<name>Bangkit</name>
+			</trans-unit>
+			<trans-unit id="214" resname="IDS_FAJAR">
+				<source>BP10</source>
+				<name>Fajar</name>
+			</trans-unit>
+			<trans-unit id="215" resname="IDS_SEGAR">
+				<source>BP11</source>
+				<name>Segar</name>
+			</trans-unit>
+			<trans-unit id="216" resname="IDS_JELAPANG">
+				<source>BP12</source>
+				<name>Jelapang</name>
+			</trans-unit>
+			<trans-unit id="217" resname="IDS_SENJA">
+				<source>BP13</source>
+				<name>Senja</name>
+			</trans-unit>
+			<trans-unit id="218" resname="IDS_TEN_MILE_JUNCTION">
+				<source>BP14</source>
+				<name>Ten Mile Junction</name>
+			</trans-unit>
+			<trans-unit id="219" resname="IDS_EXPO">
+				<source>CG1</source>
+				<name>Expo</name>
+			</trans-unit>
+			<trans-unit id="220" resname="IDS_DOVER">
+				<source>EW22</source>
+				<name>Dover</name>
+			</trans-unit>
+			<trans-unit id="221" resname="IDS_CHANGI_AIRPORT">
+				<source>CG2</source>
+				<name>Changi Airport</name>
+			</trans-unit>
+			<trans-unit id="222" resname="IDS_PIONEER">
+				<source>EW28</source>
+				<name>Pioneer</name>
+			</trans-unit>
+			<trans-unit id="223" resname="IDS_JOO_KOON">
+				<source>EW29</source>
+				<name>Joo Koon</name>
+			</trans-unit>
+			<trans-unit id="224" resname="IDS_PUNGGOL">
+				<source>NE17</source>
+				<name>Punggol</name>
+			</trans-unit>
+			<trans-unit id="225" resname="IDS_SENGKANG">
+				<source>NE16 </source>
+				<name>Sengkang</name>
+			</trans-unit>
+			<trans-unit id="226" resname="IDS_BUANGKOK">
+				<source>NE15</source>
+				<name>Buangkok</name>
+			</trans-unit>
+			<trans-unit id="227" resname="IDS_HOUGANG">
+				<source>NE14</source>
+				<name>Hougang</name>
+			</trans-unit>
+			<trans-unit id="228" resname="IDS_KOVAN">
+				<source>NE13</source>
+				<name>Kovan</name>
+			</trans-unit>
+			<trans-unit id="229" resname="IDS_SERANGOON">
+				<source>NE12 CC13</source>
+				<name>Serangoon</name>
+			</trans-unit>
+			<trans-unit id="230" resname="IDS_WOODLEIGH">
+				<source>NE11</source>
+				<name>Woodleigh</name>
+			</trans-unit>
+			<trans-unit id="231" resname="IDS_POTONG_PASIR">
+				<source>NE10</source>
+				<name>Potong Pasir</name>
+			</trans-unit>
+			<trans-unit id="232" resname="IDS_BOON_KENG">
+				<source>NE9 </source>
+				<name>Boon Keng</name>
+			</trans-unit>
+			<trans-unit id="233" resname="IDS_FARRER_PARK">
+				<source>NE8</source>
+				<name>Farrer Park</name>
+			</trans-unit>
+			<trans-unit id="234" resname="IDS_LITTLE_INDIA">
+				<source>NE7</source>
+				<name>Little India</name>
+			</trans-unit>
+			<trans-unit id="235" resname="IDS_CLARK_QUAY">
+				<source>NE5</source>
+				<name>Clarke Quay</name>
+			</trans-unit>
+			<trans-unit id="236" resname="IDS_CHINATOWN">
+				<source>NE4</source>
+				<name>Chinatown</name>
+			</trans-unit>
+			<trans-unit id="237" resname="IDS_OUTAM_PARK">
+				<source>NE3</source>
+				<name>Outram Park</name>
+			</trans-unit>
+			<trans-unit id="238" resname="IDS_HARBOUR_FRONT">
+				<source>NE1 CC29</source>
+				<name>Harbour Front</name>
+			</trans-unit>
+			<trans-unit id="239" resname="IDS_COMPASSVALE">
+				<source>SE1</source>
+				<name>Compassvale</name>
+			</trans-unit>
+			<trans-unit id="240" resname="IDS_RUMBIA">
+				<source>SE2</source>
+				<name>Rumbia</name>
+			</trans-unit>
+			<trans-unit id="241" resname="IDS_BAKAU">
+				<source>SE3</source>
+				<name>Bakau</name>
+			</trans-unit>
+			<trans-unit id="242" resname="IDS_KANGKAR">
+				<source>SE4</source>
+				<name>Kangkar</name>
+			</trans-unit>
+			<trans-unit id="243" resname="IDS_RANGGUNG">
+				<source>SE5</source>
+				<name>Ranggung</name>
+			</trans-unit>
+			<trans-unit id="244" resname="IDS_CHENG_LIM">
+				<source>SW1</source>
+				<name>Cheng Lim</name>
+			</trans-unit>
+			<trans-unit id="245" resname="IDS_FARWAY">
+				<source>SW2</source>
+				<name>Farmway</name>
+			</trans-unit>
+			<trans-unit id="246" resname="IDS_KUPANG">
+				<source>SW3</source>
+				<name>Kupang</name>
+			</trans-unit>
+			<trans-unit id="247" resname="IDS_THANGGAM">
+				<source>SW4</source>
+				<name>Thanggam</name>
+			</trans-unit>
+			<trans-unit id="248" resname="IDS_FARNVALE">
+				<source>SW5</source>
+				<name>Fernvale</name>
+			</trans-unit>
+			<trans-unit id="249" resname="IDS_LAYAR">
+				<source>SW6</source>
+				<name>Layar</name>
+			</trans-unit>          
+			<trans-unit id="250" resname="IDS_TONGKANG">
+				<source>SW7</source>
+				<name>Tongkang</name>
+			</trans-unit>
+			<trans-unit id="251" resname="IDS_RENJONG">
+				<source>SW8</source>
+				<name>Renjong</name>
+			</trans-unit>          
+			<trans-unit id="252" resname="IDS_COVE">
+				<source>PE1</source>
+				<name>Cove</name>
+			</trans-unit>
+			<trans-unit id="253" resname="IDS_MARIDIAN">
+				<source>PE2</source>
+				<name>Meridian</name>
+			</trans-unit>         
+			<trans-unit id="254" resname="IDS_CORAL_EDGE">
+				<source>PE3 </source>
+				<name>Coral Edge</name>
+			</trans-unit>
+			<trans-unit id="255" resname="IDS_RIVIERA">
+				<source>PE4</source>
+				<name>Riviera</name>
+			</trans-unit>         
+			<trans-unit id="256" resname="IDS_KADALOOR">
+				<source>PE5</source>
+				<name>Kadaloor</name>
+			</trans-unit>
+			<trans-unit id="257" resname="IDS_OASIS">
+				<source>PE6 </source>
+				<name>Oasis</name>
+			</trans-unit>          
+			<trans-unit id="258" resname="IDS_DAMAI">
+				<source>PE7</source>
+				<name>Damai</name>
+			</trans-unit>
+			<trans-unit id="259" resname="IDS_SAM_KEE">
+				<source>PW1</source>
+				<name>Sam Kee</name>
+			</trans-unit>          
+			<trans-unit id="260" resname="IDS_TECK_LEE">
+				<source>PW2</source>
+				<name>Teck Lee</name>
+			</trans-unit>
+			<trans-unit id="261" resname="IDS_PUNGGOL_POINT">
+				<source>PW3</source>
+				<name>Punggol Point</name>
+			</trans-unit>
+			<trans-unit id="262" resname="IDS_SAMUDERA">
+				<source>PW4</source>
+				<name>Samudera</name>
+			</trans-unit>
+			<trans-unit id="263" resname="IDS_NIBONG">
+				<source>PW5 </source>
+				<name>Nibong</name>
+			</trans-unit>          
+			<trans-unit id="264" resname="IDS_SUMANG">
+				<source>PW6</source>
+				<name>Sumang</name>
+			</trans-unit>
+			<trans-unit id="265" resname="IDS_SOO_TECK">
+				<source>PW7</source>
+				<name>Soo Teck</name>
+			</trans-unit>    
+			<trans-unit id="266" resname="IDS_BARTLEY">
+				<source>CC12</source>
+				<name>Bartley</name>
+			</trans-unit>
+			<trans-unit id="267" resname="IDS_SERANGOON">
+				<source>CC13</source>
+				<name>Serangoon</name>
+			</trans-unit>       
+			<trans-unit id="268" resname="IDS_LORONG_CHUAN">
+				<source>CC14</source>
+				<name>Lorong Chuan</name>
+			</trans-unit>
+			<trans-unit id="269" resname="IDS_MARYMOUNT">
+				<source>CC16</source>
+				<name>Marymount</name>
+			</trans-unit>
+			<trans-unit id="270" resname="IDS_TAI_SENG">
+				<source>CC11</source>
+				<name>Tai Seng</name>
+			</trans-unit>
+			<trans-unit id="271" resname="IDS_MACPHERSON">
+				<source>CC10</source>
+				<name>MacPherson</name>
+			</trans-unit>
+			<trans-unit id="272" resname="IDS_PAYA_LEBAR">
+				<source>CC9</source>
+				<name>Paya Lebar</name>
+			</trans-unit>       
+			<trans-unit id="273" resname="IDS_DOKOTA">
+				<source>CC8</source>
+				<name>Dakota</name>
+			</trans-unit>
+			<trans-unit id="274" resname="IDS_MOUNTBATTEN">
+				<source>CC7</source>
+				<name>Mountbatten</name>
+			</trans-unit> 
+			<trans-unit id="275" resname="IDS_STADIUM">
+				<source>CC6</source>
+				<name>Stadium</name>
+			</trans-unit>
+			<trans-unit id="276" resname="IDS_NICOLL_HIGHWAY">
+				<source>CC5</source>
+				<name>Nicoll Highway</name>
+			</trans-unit>         
+			<trans-unit id="277" resname="IDS_PROMENADE">
+				<source>CC4</source>
+				<name>Promenade</name>
+			</trans-unit>
+			<trans-unit id="278" resname="IDS_ESPLANADE">
+				<source>CC3</source>
+				<name>Esplanade</name>
+			</trans-unit>        
+			<trans-unit id="279" resname="IDS_BRAS_BASAH">
+				<source>CC2</source>
+				<name>Bras Basah</name>
+			</trans-unit>
+			<trans-unit id="280" resname="IDS_CALDECOTT">
+				<source>CC17</source>
+				<name>Caldecott</name>
+			</trans-unit>        
+			<trans-unit id="281" resname="IDS_BOTANIC_GARDEN">
+				<source>CC19</source>
+				<name>Botanic Garden</name>
+			</trans-unit>
+			<trans-unit id="282" resname="IDS_FARRER_ROAD">
+				<source>CC20</source>
+				<name>Farrer Road</name>
+			</trans-unit>         
+			<trans-unit id="283" resname="IDS_HOLLAND_VILLAGE">
+				<source>CC21</source>
+				<name>Holland Village</name>
+			</trans-unit>
+			 <trans-unit id="284" resname="IDS_ONE_NORTH">
+				<source>CC23</source>
+				<name>one-north</name>
+			</trans-unit>
+			<trans-unit id="284" resname="IDS_KENT_RIDGE">
+				<source>CC24</source>
+				<name>Kent Ridge</name>
+			</trans-unit>        
+			<trans-unit id="285" resname="IDS_HAW_PAR_VILLA">
+				<source>CC25</source>
+				<name>Haw Par Villa</name>
+			</trans-unit>
+			<trans-unit id="289" resname="IDS_PARSIR_PANJANG">
+				<source>CC26</source>
+				<name>Pasir Panjang</name>
+			</trans-unit>          
+			<trans-unit id="290" resname="IDS_LABRADOR_PARK">
+				<source>CC27</source>
+				<name>Labrador Park</name>
+			</trans-unit>
+			<trans-unit id="300" resname="IDS_TELOK_BLANGAH">
+				<source>CC28</source>
+				<name>Telok Blangah</name>
+			</trans-unit>         
+			<trans-unit id="301" resname="IDS_HARBOUR_FRONT">
+				<source>CC29</source>
+				<name>Harbour Front</name>
+			</trans-unit>
+			<trans-unit id="302" resname="IDS_BUKIT_BROWN">
+				<source>CC18</source>
+				<name>Bukit Brown</name>
+			</trans-unit>          
+			<trans-unit id="304" resname="IDS_BAYFRONT">
+				<source>CE1</source>
+				<name>Bayfront</name>
+			</trans-unit>
+			<trans-unit id="304" resname="IDS_BACK">
+				<source>Kembali</source>
+			</trans-unit>
+        </body> 
+    </file> 
+</xliff>
